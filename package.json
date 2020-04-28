@@ -1,0 +1,14 @@
+{
+  "name": "declaratie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "declaratie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "DWTFYW",
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  }
+}
